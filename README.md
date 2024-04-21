@@ -1,1 +1,1 @@
-genral practice for linear regression using algorithm and then library
+general practice for supervised and unsupervised model by using algorithm and then library
